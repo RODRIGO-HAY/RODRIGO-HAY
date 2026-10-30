@@ -45,9 +45,6 @@ Tenho 24 anos, sou de **Aracaju/SE** e estou construindo minha carreira como **d
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RODRIGO-HAY&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&include_all_commits=true" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RODRIGO-HAY&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
-
 <img src="https://streak-stats.demolab.com?user=RODRIGO-HAY&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
 
 </div>
